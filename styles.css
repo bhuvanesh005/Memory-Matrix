@@ -56,7 +56,7 @@ main{
 .card {
     width: 100%;
     aspect-ratio: 1;
-    background-image: url(Photos/cover1.png);
+    background-image: url(https://github.com/bhuvanesh005/Memory-Matrix/blob/main/cover1.png?raw=true);
     background-size: contain;
     border: 2px solid #000;
     display: flex;
@@ -158,4 +158,5 @@ main{
 .matched {
     opacity: 0;
     transition: opacity 0.5s ease;
+
 }
